@@ -1,0 +1,352 @@
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\bin\Debug\ServiceConfiguration.cscfg
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\bin\Debug\ServiceDefinition.csdef
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Antlr3.Runtime.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Antlr3.Runtime.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Data.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Data.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.SqlServer.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.SqlServer.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Edm.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Edm.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.OData.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.OData.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Services.Client.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Services.Client.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\MonAgentListener.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Newtonsoft.Json.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Newtonsoft.Json.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Owin.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\csc.exe
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\vbc.exe
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\VBCSCompiler.exe
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Spatial.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Spatial.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Helpers.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Helpers.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Mvc.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Mvc.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Optimization.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Optimization.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Razor.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Razor.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Razor.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Razor.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebGrease.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebRole.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebRole.dll.config
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebRole.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Azure.KeyVault.Core.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Data.Edm.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Data.OData.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Data.Services.Client.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Storage.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Storage.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\MonAgentListener.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Newtonsoft.Json.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\System.Spatial.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\WorkerRole.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\WorkerRole.dll.config
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\WorkerRole.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Data.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Data.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Configuration.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\bin\Debug\ServiceConfiguration.cscfg
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\bin\Debug\ServiceDefinition.csdef
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Antlr3.Runtime.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Antlr3.Runtime.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Data.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Data.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\de\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.SqlServer.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.SqlServer.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\EntityFramework.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\es\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\fr\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\it\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ja\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ko\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Edm.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Edm.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.OData.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.OData.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Services.Client.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Data.Services.Client.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.Security.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Owin.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Storage.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Microsoft.WindowsAzure.Storage.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\MonAgentListener.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Newtonsoft.Json.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Newtonsoft.Json.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\Owin.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\csc.exe
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\vbc.exe
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\VBCSCompiler.exe
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\ru\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Spatial.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Spatial.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Helpers.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Helpers.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Mvc.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Mvc.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Optimization.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Optimization.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Razor.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.Razor.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Deployment.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Deployment.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Razor.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.Razor.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\System.Web.WebPages.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebGrease.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebRole.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebRole.dll.config
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\WebRole.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hans\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ProcessItemsWeb\bin\zh-Hant\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Data.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Data.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\de\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\es\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\fr\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\it\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ja\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ko\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Azure.KeyVault.Core.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Data.Edm.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Data.OData.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.Data.Services.Client.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Configuration.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Diagnostics.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Storage.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Microsoft.WindowsAzure.Storage.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\MonAgentListener.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\Newtonsoft.Json.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\ru\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\System.Spatial.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\WorkerRole.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\WorkerRole.dll.config
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\WorkerRole.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hans\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\PripremaZaIIKol\obj\Debug\ItemRepositoryWorker\zh-Hant\System.Spatial.resources.dll

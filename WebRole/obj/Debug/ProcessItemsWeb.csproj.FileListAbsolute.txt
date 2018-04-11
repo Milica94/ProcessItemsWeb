@@ -1,0 +1,248 @@
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\csc.exe
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\System.Collections.Immutable.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\vbc.exe
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\VBCSCompiler.exe
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\roslyn\VBCSCompiler.exe.config
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\WebRole.dll.config
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\WebRole.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\WebRole.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Antlr3.Runtime.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Data.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\EntityFramework.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\EntityFramework.SqlServer.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Edm.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Data.OData.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Services.Client.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Google.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Web.Infrastructure.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Newtonsoft.Json.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Owin.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Spatial.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Helpers.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Mvc.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Optimization.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Razor.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Deployment.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Razor.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\WebGrease.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\MonAgentListener.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Data.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Edm.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Data.OData.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Services.Client.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Newtonsoft.Json.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Spatial.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Helpers.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Mvc.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Optimization.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.Razor.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Deployment.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Razor.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Antlr3.Runtime.pdb
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\EntityFramework.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\EntityFramework.SqlServer.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Google.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\de\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\es\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\it\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\de\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\es\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\fr\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\it\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ja\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ko\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\ru\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hans\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\bin\zh-Hant\System.Spatial.resources.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\obj\Debug\ProcessItemsWeb.csprojResolveAssemblyReference.cache
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\obj\Debug\WebRole.dll
+E:\Fakultet\CLOUD\Priprema za II kolokvijum\PripremaZaIIKol\WebRole\obj\Debug\WebRole.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\csc.exe
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\System.Collections.Immutable.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\vbc.exe
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\VBCSCompiler.exe
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\VBCSCompiler.exe.config
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\roslyn\System.Reflection.Metadata.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\WebRole.dll.config
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\WebRole.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\WebRole.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Antlr3.Runtime.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Data.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\EntityFramework.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\EntityFramework.SqlServer.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Edm.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Data.OData.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Services.Client.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Google.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Web.Infrastructure.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Storage.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Newtonsoft.Json.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Owin.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Spatial.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Helpers.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Mvc.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Optimization.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Razor.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Deployment.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Razor.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\WebGrease.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\MonAgentListener.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Data.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Edm.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Data.OData.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Data.Services.Client.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Storage.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Newtonsoft.Json.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Spatial.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Helpers.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Mvc.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Optimization.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.Razor.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Deployment.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\System.Web.WebPages.Razor.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Antlr3.Runtime.pdb
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\EntityFramework.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\EntityFramework.SqlServer.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Google.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\de\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\es\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\it\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\de\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\es\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\fr\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\it\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ja\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ko\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ru\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\de\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\es\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\fr\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\it\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ja\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ko\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\ru\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hans\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\bin\zh-Hant\System.Spatial.resources.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\obj\Debug\ProcessItemsWeb.csprojResolveAssemblyReference.cache
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\obj\Debug\WebRole.dll
+E:\cloud\Za drugi kolokvijum\Uradjen drugi pripremni\Od Aleksandre\PripremaZaIIKol\PripremaZaIIKol\WebRole\obj\Debug\WebRole.pdb

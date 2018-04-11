@@ -1,0 +1,25 @@
+﻿@model Data.Article
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm("ProcessItem", "Article", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{ @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Article</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Identifier)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Identifier) @Html.ValidationMessageFor(model => model.RowKey)
+        </div>
+        <p>
+            <input type="submit" value="Posalji" />
+        </p>
+    </fieldset>
+}
